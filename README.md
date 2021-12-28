@@ -4,7 +4,13 @@ _Mechanical engineer (and sometimes a biologist) based in Barcelona, Spain_ <br>
 
 [Work Email](mailto:nchahare@ibecbarcelona.eu) / [Gmail](mailto:chaharenimesh@gmail.com) / [Website](https://nchahare.github.io/) / [LinkedIn](https://www.linkedin.com/in/nchahare/) / [GitHub](https://github.com/nchahare/) / [Twitter](https://twitter.com/onenimesa/)
 
-## 👩🏼‍💻 Technical Experience
+## 🧑🏼‍🎓 Education
+
+**Ph.D.** [School of Mathematics and Statistics, Universitat Politècnica de Catalunya, Barcelona, 2021](https://fme.upc.edu/en)
+
+**M.E.** [Mechanical] Engineering, Indian Institute of Science, Bengaluru, 2016](https://mecheng.iisc.ac.in/)
+
+**B.Tech.** [Mechanical Engineering, Visvesvaraya National Institute of Technology, Nagpur, 2014(https://vnit.ac.in/mech/)
 
 
 You can use the [editor on GitHub](https://github.com/nchahare/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
