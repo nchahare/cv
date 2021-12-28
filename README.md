@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Nimesh Chahare
+
+_Mechanical engineer (and sometimes a biologist) based in Barcelona, Spain_ <br>
+
+[Work Email](mailto:nchahare@ibecbarcelona.eu) / [Gmail](mailto:chaharenimesh@gmail.com) / [Website](https://nchahare.github.io/) / [LinkedIn](https://www.linkedin.com/in/nchahare/) / [GitHub](https://github.com/nchahare/) / [Twitter](https://twitter.com/onenimesa/)
+
+## 👩🏼‍💻 Technical Experience
+
 
 You can use the [editor on GitHub](https://github.com/nchahare/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
