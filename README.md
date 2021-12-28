@@ -54,15 +54,15 @@ Dynamic mechanical spectroscopy (DMA, TA Instruments), microindentation (CSM Mic
 
 ### Responsibilities 
 
-- Managed data servers (synology and magnetic tape drive system) in the Prof. Trepat’s lab.\
-- Member of PhD committee at IBEC.\
+- Managed data servers (synology and magnetic tape drive system) in the Prof. Trepat’s lab.
+- Member of PhD committee at IBEC.
 
 ### Outreach
 
-- Active member of Science day events, planning committee for communicating popular science 2018–.\
-- Volunteered at Structural Integrity Conference and Exhibition (SICE) 2016.\
-- Cultural committee member, organizing cultural programmes in Marathi mandal IISc 2015.\
-- Active member of Social Welfare Society at VNIT 2014.\
+- Active member of Science day events, planning committee for communicating popular science 2018–.
+- Volunteered at Structural Integrity Conference and Exhibition (SICE) 2016.
+- Cultural committee member, organizing cultural programmes in Marathi mandal IISc 2015.
+- Active member of Social Welfare Society at VNIT 2014.
 
 ## 🏆 Accomplishments
 
@@ -70,15 +70,15 @@ Dynamic mechanical spectroscopy (DMA, TA Instruments), microindentation (CSM Mic
 
 **All India Rank 362 (99.8 percentile)** out of 185,578 in Graduate Aptitude Test in Engineering in 2014.\
 
-**Received second prize** for Best paper presentation in Association for Machines and Mechanisms' Industrial Problems on Machines and Mechanisms (IPRoMM), Nagpur, India, 2016.\
+**Received second prize** for Best paper presentation in Association for Machines and Mechanisms' Industrial Problems on Machines and Mechanisms (IPRoMM), Nagpur, India, 2016.
 
-**Bagged 22nd position** in national level presentation competition for future transportation solution, TATA MOTORS’ MIND ROVER, 2013.\
+**Bagged 22nd position** in national level presentation competition for future transportation solution, TATA MOTORS’ MIND ROVER, 2013.
 
 ### Grants
 
-**International travel grant** for attending winter school on Quantitative Systems Biology at International Centre for Theoretical Sciences (ICTS), Bengaluru, India 2019.\
-        
-**Awarded scholarship** by Ministry of Human resource and development, India for M.E. 2014-16.\
+**International travel grant** for attending winter school on Quantitative Systems Biology at International Centre for Theoretical Sciences (ICTS), Bengaluru, India 2019.
+
+**Awarded scholarship** by Ministry of Human resource and development, India for M.E. 2014-16.
 
 
 ## 💬 Languages
