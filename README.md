@@ -22,6 +22,24 @@ _Mechanical engineer (and sometimes a biologist) based in Barcelona, Spain_ <br>
 **Bachelor of Technology** in Mechanical Engineering\
 [Visvesvaraya National Institute of Technology](https://vnit.ac.in/mech/), Nagpur, India, 2014
 
+## 📰 Publications
+
+### Patents
+
+Pullarkat, P., Vishwakarma, R., Gundiah, N.,  and **Chahare, N. R.**, [A microscope mountable fluid shear device](http://ipindia.gov.in/writereaddata/Portal/IPOJournal/1_2591_1/Part-1.pdf). Indian patent, IN201641029893A, pg 275/677 Published 2018-03-09.
+
+### Journal Article Manuscripts Under Review
+
+Andreu, I., Granero-Moya, I., **Chahare, N. R.**, Clein, K., Jordàn, M. M., Beedle, A. E., ... & Roca-Cusachs, P. (2021). [Mechanosensitivity of nucleocytoplasmic transport](https://www.biorxiv.org/content/10.1101/2021.07.23.453478v2). bioRxiv.
+
+### Articles in Peer-Reviewed Journals
+
+Andreu, I., Falcones, B., Hurst, S., **Chahare, N.**, Quiroga, X., Le Roux, A. L., ... & Roca-Cusachs, P. (2021). [The force loading rate drives cell mechanosensing through both reinforcement and cytoskeletal softening](https://www.nature.com/articles/s41467-021-24383-3). Nature communications, 12(1), 1-12.
+
+Chatterjee, A., **Chahare, N. R.**, Kondaiah, P., & Gundiah, N. (2021). [Role of Fiber Orientations in the Mechanics of Bioinspired Fiber-Reinforced Elastomers](https://www.liebertpub.com/doi/10.1089/soro.2019.0191). Soft Robotics, 8(6), 640-650.
+
+Kundanati, L., **Chahare, N. R.**, Jaddivada, S., Karkisaval, A. G., Sridhar, R., Pugno, N. M., & Gundiah, N. (2020). [Cutting mechanics of wood by beetle larval mandibles.](https://doi.org/10.1016/j.jmbbm.2020.104027) Journal of the Mechanical Behavior of Biomedical Materials, 112, 104027.
+
 
 ## 👨‍💻 Research experience
 
@@ -70,27 +88,6 @@ Thesis: **Design and Fabrication of a Hirda (Terminalia chebula) Cracking Machin
 
 - The project involved solving problem of Indian tribal population dealing with processing of hirda fruit for medicinal applications.
 - Built a machine to separate seed from the fruit called ``Hirda'', by crushing the fruit between two rollers. Use of machine led to lower processing time, higher output and minimal manual labour.
-
-
-## 📰 Publications
-
-### Patents
-
-Pullarkat, P., Vishwakarma, R., Gundiah, N.,  and **Chahare, N. R.**, [A microscope mountable fluid shear device](http://ipindia.gov.in/writereaddata/Portal/IPOJournal/1_2591_1/Part-1.pdf). Indian patent, IN201641029893A, pg 275/677 Published 2018-03-09.
-
-
-### Journal Article Manuscripts Under Review
-
-Andreu, I., Granero-Moya, I., **Chahare, N. R.**, Clein, K., Jordàn, M. M., Beedle, A. E., ... & Roca-Cusachs, P. (2021). [Mechanosensitivity of nucleocytoplasmic transport](https://www.biorxiv.org/content/10.1101/2021.07.23.453478v2). bioRxiv.
-
-### Articles in Peer-Reviewed Journals
-
-Andreu, I., Falcones, B., Hurst, S., **Chahare, N.**, Quiroga, X., Le Roux, A. L., ... & Roca-Cusachs, P. (2021). [The force loading rate drives cell mechanosensing through both reinforcement and cytoskeletal softening](https://www.nature.com/articles/s41467-021-24383-3K). Nature communications, 12(1), 1-12.
-
-Chatterjee, A., **Chahare, N. R.**, Kondaiah, P., & Gundiah, N. (2021). [Role of Fiber Orientations in the Mechanics of Bioinspired Fiber-Reinforced Elastomers](https://www.liebertpub.com/doi/10.1089/soro.2019.0191). Soft Robotics, 8(6), 640-650.
-
-Kundanati, L., **Chahare, N. R.**, Jaddivada, S., Karkisaval, A. G., Sridhar, R., Pugno, N. M., & Gundiah, N. (2020). [Cutting mechanics of wood by beetle larval mandibles.](https://doi.org/10.1016/j.jmbbm.2020.104027) Journal of the Mechanical Behavior of Biomedical Materials, 112, 104027.
-
 
 ## 🎤 Conferences
 
