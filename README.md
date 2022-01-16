@@ -51,7 +51,6 @@ Thesis: **Mechanics of epithelial layers subjected to controlled pressure and te
 
 - Designing a device to simulate physiological environment of morphogenesis and epithelial folding, which involves stretching and buckling of epithelia.
 - Working on a project in collaboration with **Prof. Pere Roca-Cusachs** for analysing atomic force microscopy data to understand role of force loading rates in cell mechanosensing.
-
 - Constructing a numerical framework to elucidate protein transport with Fluorescence recovery afterphotobleaching (FRAP) and Fluorescence Loss in Photobleaching (FLIP) with Ion Andreu.
 
 
