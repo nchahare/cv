@@ -28,7 +28,7 @@ _Mechanical engineer (and sometimes a biologist) based in Barcelona, Spain_ <br>
 
 Pullarkat, P., Vishwakarma, R., Gundiah, N.,  and **Chahare, N. R.**, [A microscope mountable fluid shear device](http://ipindia.gov.in/writereaddata/Portal/IPOJournal/1_2591_1/Part-1.pdf). Indian patent, IN201641029893A, pg 275/677 Published 2018-03-09.
 
-**### Journal Article Manuscripts Under Review**
+### Articles in Peer-Reviewed Journals
 
 Andreu, I., Granero-Moya, I., **Chahare, N. R.**, Clein, K., Jordàn, M. M., Beedle, A. E., ... & Roca-Cusachs, P. (2022). [Mechanosensitivity of nucleocytoplasmic transport](https://www.biorxiv.org/content/10.1101/2021.07.23.453478v2). bioRxiv. (*in press* at Nature Cell Biology)
 
