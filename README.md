@@ -89,7 +89,9 @@ Thesis: **Design and Fabrication of a Hirda (Terminalia chebula) Cracking Machin
 
 ## 🎤 Conferences
 
-Chatterjee, A., **Chahare. N. R.**, Kulkarni. A., Kondaiah, P., and Gundiah, N. “Design of adynamic cell stretcher to quantify responses of fibroblasts to cyclic stretching and TGF-β.”5th International Conference on Computational and Mathematical Biomedical Engineering,Pittsburgh, Pennsylvania, USA. April 10–12, 2017
+Oral Presentation, **Chahare, N. R.**, Ouzeri, A., Golde, T., Wilson, T. Arroyo, M., and Trepat, X. “Synthetic epithelial morphogenesis through controlled stretching and buckling.” EMBO-EMBL Symposium, Mechanobiology in development and disease, Heidelberg, Germany. May 15–18, 2022 
+
+Chatterjee, A., **Chahare, N. R.**, Kulkarni, A., Kondaiah, P., and Gundiah, N. “Design of adynamic cell stretcher to quantify responses of fibroblasts to cyclic stretching and TGF-β.”5th International Conference on Computational and Mathematical Biomedical Engineering,Pittsburgh, Pennsylvania, USA. April 10–12, 2017
 
 Satone, V., **Chahare, N. R.**, and Padole, P. “Design of pedal operated behda crackingmachine using flywheel motor.” Association for Machines and Mechanisms’ IndustrialProblems on Machines and Mechanisms (IPRoMM), Nagpur, India. Dec 22–23, 2016
 
