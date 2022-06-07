@@ -39,6 +39,21 @@ Chatterjee, A., **Chahare, N. R.**, Kondaiah, P., & Gundiah, N. (2021). [Role of
 Kundanati, L., **Chahare, N. R.**, Jaddivada, S., Karkisaval, A. G., Sridhar, R., Pugno, N. M., & Gundiah, N. (2020). [Cutting mechanics of wood by beetle larval mandibles.](https://doi.org/10.1016/j.jmbbm.2020.104027) Journal of the Mechanical Behavior of Biomedical Materials, 112, 104027.
 
 
+## 🎤 Conferences
+
+**Chahare, N. R.**, Ouzeri, A., Golde, T., Wilson, T. Arroyo, M., and Trepat, X. “Shaping epithelia through buckling in pressure-controlled tissue.” World congress of biomechanics, Taipei, Taiwan. July 10-14, 2022 
+
+**Chahare, N. R.**, Ouzeri, A., Golde, T., Wilson, T. Arroyo, M., and Trepat, X. “Synthetic epithelial morphogenesis through controlled stretching and buckling.” EMBL-IBEC Conference, Engineering multicellular systems, Barcelona, Spain. June 08-10, 2022 
+
+**Chahare, N. R.**, Ouzeri, A., Golde, T., Wilson, T. Arroyo, M., and Trepat, X. “Synthetic epithelial morphogenesis through controlled stretching and buckling.” EMBO-EMBL Symposium, Mechanobiology in development and disease, Heidelberg, Germany. May 15–18, 2022 
+
+Chatterjee, A., **Chahare, N. R.**, Kulkarni, A., Kondaiah, P., and Gundiah, N. “Design of adynamic cell stretcher to quantify responses of fibroblasts to cyclic stretching and TGF-β.”5th International Conference on Computational and Mathematical Biomedical Engineering,Pittsburgh, Pennsylvania, USA. April 10–12, 2017
+
+Satone, V., **Chahare, N. R.**, and Padole, P. “Design of pedal operated behda crackingmachine using flywheel motor.” Association for Machines and Mechanisms’ IndustrialProblems on Machines and Mechanisms (IPRoMM), Nagpur, India. Dec 22–23, 2016
+
+Abhijith, K. G., **Chahare, N. R**., Kundanati, L., and Gundiah, N. “Mechanics of the Cuticleof Wood Boring Insects.” Structural Integrity Conference and Exhibition (SICE), Bengaluru,India. July 4–6, 2016
+
+
 ## 👨‍💻 Research experience
 
 ### PhD student, Institute for Bioengineering of Catalonia, and UPC
@@ -87,15 +102,6 @@ Thesis: **Design and Fabrication of a Hirda (Terminalia chebula) Cracking Machin
 - The project involved solving problem of Indian tribal population dealing with processing of hirda fruit for medicinal applications.
 - Built a machine to separate seed from the fruit called ``Hirda'', by crushing the fruit between two rollers. Use of machine led to lower processing time, higher output and minimal manual labour.
 
-## 🎤 Conferences
-
-Oral Presentation, **Chahare, N. R.**, Ouzeri, A., Golde, T., Wilson, T. Arroyo, M., and Trepat, X. “Synthetic epithelial morphogenesis through controlled stretching and buckling.” EMBO-EMBL Symposium, Mechanobiology in development and disease, Heidelberg, Germany. May 15–18, 2022 
-
-Chatterjee, A., **Chahare, N. R.**, Kulkarni, A., Kondaiah, P., and Gundiah, N. “Design of adynamic cell stretcher to quantify responses of fibroblasts to cyclic stretching and TGF-β.”5th International Conference on Computational and Mathematical Biomedical Engineering,Pittsburgh, Pennsylvania, USA. April 10–12, 2017
-
-Satone, V., **Chahare, N. R.**, and Padole, P. “Design of pedal operated behda crackingmachine using flywheel motor.” Association for Machines and Mechanisms’ IndustrialProblems on Machines and Mechanisms (IPRoMM), Nagpur, India. Dec 22–23, 2016
-
-Abhijith, K. G., **Chahare, N. R**., Kundanati, L., and Gundiah, N. “Mechanics of the Cuticleof Wood Boring Insects.” Structural Integrity Conference and Exhibition (SICE), Bengaluru,India. July 4–6, 2016
 
 ## 📓 Teaching experience
 
