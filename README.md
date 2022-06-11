@@ -29,11 +29,11 @@ _Mechanical engineer (and sometimes a biologist) based in Barcelona, Spain_ <br>
 Pullarkat, P., Vishwakarma, R., Gundiah, N.,  and **Chahare, N. R.**, [A microscope mountable fluid shear device](http://ipindia.gov.in/writereaddata/Portal/IPOJournal/1_2591_1/Part-1.pdf). Indian patent, IN201641029893A, pg 275/677 Published 2018-03-09.
 
 ### Articles in Peer-Reviewed Journals
-`*` indicates equal contrubition
+$\sharp$ indicates equal contrubition
 
-Andreu, I.`*`, Granero-Moya, I.`*`, **Chahare, N. R.**, Clein, K., Jordàn, M. M., Beedle, A. E., ... & Roca-Cusachs, P. (2022). [Mechanosensitivity of nucleocytoplasmic transport](https://www.biorxiv.org/content/10.1101/2021.07.23.453478v2). bioRxiv. (*in press* at Nature Cell Biology)
+Andreu, I. $\sharp$, Granero-Moya, I. $\sharp$, **Chahare, N. R.**, Clein, K., Jordàn, M. M., Beedle, A. E., ... & Roca-Cusachs, P. (2022). [Mechanosensitivity of nucleocytoplasmic transport](https://www.biorxiv.org/content/10.1101/2021.07.23.453478v2). bioRxiv. (*in press* at Nature Cell Biology)
 
-Andreu, I.`*`, Falcones, B.`*`, Hurst, S., **Chahare, N.**, Quiroga, X., Le Roux, A. L., ... & Roca-Cusachs, P. (2021). [The force loading rate drives cell mechanosensing through both reinforcement and cytoskeletal softening](https://www.nature.com/articles/s41467-021-24383-3). Nature communications, 12(1), 1-12.
+Andreu, I. $\sharp$, Falcones, B. $\sharp$, Hurst, S., **Chahare, N.**, Quiroga, X., Le Roux, A. L., ... & Roca-Cusachs, P. (2021). [The force loading rate drives cell mechanosensing through both reinforcement and cytoskeletal softening](https://www.nature.com/articles/s41467-021-24383-3). Nature communications, 12(1), 1-12.
 
 Chatterjee, A., **Chahare, N. R.**, Kondaiah, P., & Gundiah, N. (2021). [Role of Fiber Orientations in the Mechanics of Bioinspired Fiber-Reinforced Elastomers](https://www.liebertpub.com/doi/10.1089/soro.2019.0191). Soft Robotics, 8(6), 640-650.
 
