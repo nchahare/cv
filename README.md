@@ -1,6 +1,9 @@
 ## Nimesh Chahare
 
-_Mechanical engineer (and sometimes a biologist) based in Barcelona, Spain_ <br>
+
+_I am a mechanical engineer working with biological materials based in Barcelona, Spain._ <br> 
+Throughout my research, I have been developing technologies to probe the mechanics of biology. In the future, I would like to explore emergent mechanical phenomena in cellular collectives.
+
 
 [Work Email](mailto:nchahare@ibecbarcelona.eu) / [Gmail](mailto:chaharenimesh@gmail.com) /[LinkedIn](https://www.linkedin.com/in/nchahare/) / [GitHub](https://github.com/nchahare/) / [Twitter](https://twitter.com/onenimesa/)
 
@@ -63,10 +66,19 @@ Adviser: **Prof. Xavier Trepat** and **Prof. Marino Arroyo**, Aug 2017–Present
 
 Thesis: **Mechanics of epithelial layers subjected to controlled pressure and tension**
 
-- Designing a device to simulate physiological environment of morphogenesis and epithelial folding, which involves stretching and buckling of epithelia.
-- Microfluidic chip to control epithelial shapes and pressure.
-- Working on a project in collaboration with **Prof. Pere Roca-Cusachs** for analysing atomic force microscopy data to understand role of force loading rates in cell mechanosensing.
-- Constructing a numerical framework to elucidate protein transport with Fluorescence recovery afterphotobleaching (FRAP) and Fluorescence Loss in Photobleaching (FLIP) with Ion Andreu.
+- Designed a microfluidic chip to control epithelial shapes and pressure.
+- Discovered new method to generate epithelial folds via mechanical phenomena of buckling.
+
+**Computational tool for analysing nuclear to cytoplasmic transport**
+
+- Working in collaboration with **Prof. Pere Roca-Cusachs** and Ion Andreu, developed a MATLAB script to calculate import and export rate of mechanosensitive protien.
+- Developed a fitting algorithm to elucidate protein mobility with Fluorescence recovery after photobleaching (FRAP).
+- Utilized an elegant system of differential equations to analyse data from Fluorescence Loss in Photobleaching (FLIP).
+
+**Analysis of force loading rates associated with cell mechanosensing**
+
+- Working in collaboration with **Prof. Pere Roca-Cusachs** and Victor Gonzalez-Tarrago, developed a MATLAB script for analysing atomic force microscopy data from JPK software raw data.
+- Analysed timeseries data from AFM experiments to determine 
 
 
 ### Project Associate, Biomechanics Lab, Indian Institute of Science
@@ -75,8 +87,9 @@ Adviser: **Prof. Namrata Gundiah**, July 2016–March 2017
 
 **Developing constitutive model of Fiber Reinforced Elastomers (FRE)**
 
-- Computed stresses and strains from uniaxial and biaxial stretching experiments of Polydimethylsiloxane Fibre Reinforced Elastomer. Also, modeled experimental results using constrained optimization techniques.
-- Computed stresses and strains from uniaxial and biaxial stretching experiments of Polydimethylsiloxane Fibre Reinforced Elastomer. Also, modeled experimental results usingconstrained optimization techniques.
+- Computed stresses and strains from uniaxial and biaxial stretching experiments of Polydimethylsiloxane Fibre Reinforced Elastomer. 
+- Modeled experimental results using hyperelastic constitutive equation.
+- Performed constrained optimization using custom built MATLAB program for fitting the experimental results.
 
 
 ### Masters, Mechanical Engineering, Indian Institute of Science
@@ -85,8 +98,9 @@ Adviser: **Prof. Namrata Gundiah**, August 2014–June 2016
 
 Thesis: **Design and fabrication of miniature shear device for cell mechanics**
 
-- Designed a cost effective system capable of applying uniform shear on culture cells along with real time visualization using fluorescence microscopy (microscope mountable).
-- Calibrated the device using fluorescence microscopy and traction force microscopy to test for uniform shear flow conditions. Implemented trajectory generation filter based control system in the shear device electronics using MATLAB and Arduino programming
+- Designed a cost effective system capable of applying uniform shear on culture cells along with real time visualization using fluorescence microscopy.
+- Implemented trajectory generation filter based control system in the shear device electronics using MATLAB and Arduino programming.
+- Calibrated the device using fluorescence microscopy and traction force microscopy to test for uniform shear flow conditions. 
 
 **Finite element analysis of coffee white stem borer (CWSB) mandible**
 
@@ -101,7 +115,7 @@ Adviser: **Prof. Pramod Padole**, May 2013--April 2014
 Thesis: **Design and Fabrication of a Hirda (Terminalia chebula) Cracking Machine**
 
 - The project involved solving problem of Indian tribal population dealing with processing of hirda fruit for medicinal applications.
-- Built a machine to separate seed from the fruit called ``Hirda'', by crushing the fruit between two rollers. Use of machine led to lower processing time, higher output and minimal manual labour.
+- Built a machine to separate seed from the fruit called _Hirda_, by crushing the fruit between two rollers. Use of machine led to lower processing time, higher output and minimal manual labour.
 
 
 ## 📓 Teaching experience
