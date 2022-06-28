@@ -67,7 +67,7 @@ Adviser: **Prof. Xavier Trepat** and **Prof. Marino Arroyo**, Aug 2017–Present
 Thesis: **Mechanics of epithelial layers subjected to controlled pressure and tension**
 
 - Designed a microfluidic chip to control epithelial shapes and pressure.
-- Discovered new method to generate epithelial folds via mechanical phenomena of buckling.
+- Discovered a new method to generate epithelial folds via mechanical phenomena of buckling.
 
 **Computational tool for analysing nuclear to cytoplasmic transport**
 
@@ -78,7 +78,8 @@ Thesis: **Mechanics of epithelial layers subjected to controlled pressure and te
 **Analysis of force loading rates associated with cell mechanosensing**
 
 - Working in collaboration with **Prof. Pere Roca-Cusachs** and Victor Gonzalez-Tarrago, developed a MATLAB script for analysing atomic force microscopy data from JPK software raw data.
-- Analysed timeseries data from AFM experiments to determine 
+- Analysed timeseries data from AFM experiments to determine detachment force.
+- Analysed optical tweezer experiments by fiting curves piecewise linearly to calculate stiffness of the cells.
 
 
 ### Project Associate, Biomechanics Lab, Indian Institute of Science
