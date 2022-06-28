@@ -1,8 +1,7 @@
 ## Nimesh Chahare
 
 
-_I am a mechanical engineer working with biological materials based in Barcelona, Spain._ <br> 
-Throughout my research, I have been developing technologies to probe the mechanics of biology. In the future, I would like to explore emergent mechanical phenomena in cellular collectives.
+_I am a mechanical engineer working with biological materials based in Barcelona, Spain._ Throughout my research, I have been developing technologies to probe the mechanics of biology. In the future, I would like to explore emergent mechanical phenomena in cellular collectives.
 
 
 [Work Email](mailto:nchahare@ibecbarcelona.eu) / [Gmail](mailto:chaharenimesh@gmail.com) /[LinkedIn](https://www.linkedin.com/in/nchahare/) / [GitHub](https://github.com/nchahare/) / [Twitter](https://twitter.com/onenimesa/)
