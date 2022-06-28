@@ -9,7 +9,7 @@ _I am a mechanical engineer working with biological materials based in Barcelona
 
 ## ✏️ Research areas
 
-**Bioengineering**: Cell mechanobiology, Tissue engineering, and Lab-on-the-chip
+**Bioengineering**: Mechanobiology, Tissue engineering, and Lab-on-the-chip
 
 **Mechanics**: Continuum mechanics, Material testing, and Soft matter physics
 
@@ -66,6 +66,7 @@ Adviser: **Prof. Xavier Trepat** and **Prof. Marino Arroyo**, Aug 2017–Present
 Thesis: **Mechanics of epithelial layers subjected to controlled pressure and tension**
 
 - Designed a microfluidic chip to control epithelial shapes and pressure.
+- Performed rheological study with inflated epithelial monolayers to understand actomyosin cortex remodelling.
 - Discovered a new method to generate epithelial folds via mechanical phenomena of buckling.
 
 **Computational tool for analysing nuclear to cytoplasmic transport**
