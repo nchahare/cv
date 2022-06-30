@@ -11,7 +11,7 @@ _I am a mechanical engineer working with biological materials based in Barcelona
 
 **Bioengineering**: Mechanobiology, Tissue engineering, and Lab-on-the-chip
 
-**Mechanics**: Continuum mechanics, Material testing, and Soft matter physics
+**Mechanics**: Continuum mechanics, Material testing, and Biophysics
 
 ## 👨‍🎓 Education
 
