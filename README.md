@@ -144,6 +144,8 @@ Department of Safety, Tata Indica plant, Pune, India
 
 ### Awards and Honors
 
+**Won the best poster prize** at 15th IBEC SYMPOSIUM on Bioengineering for Active Ageing, Barcelona, Spain 2022.
+
 **All India Rank 362 (99.8 percentile)** out of 185,578 in Graduate Aptitude Test in Engineering in 2014.
 
 **Received second prize** for Best paper presentation in Association for Machines and Mechanisms' Industrial Problems on Machines and Mechanisms (IPRoMM), Nagpur, India, 2016.
