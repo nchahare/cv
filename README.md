@@ -44,6 +44,8 @@ Kundanati, L., **Chahare, N. R.**, Jaddivada, S., Karkisaval, A. G., Sridhar, R.
 
 ## 🎤 Conferences
 
+**Chahare, N. R.**, Ouzeri, A., Golde, T., Wilson, T., Roca-cusachs, P., Arroyo, M., and Trepat, X. “ Harnessing active viscoelasticity for synthetic epithelial morphogenesis.” German Physics Society, Dresden, Germany. March 26-31, 2023
+
 **Chahare, N. R.**, Ouzeri, A., Golde, T., Wilson, T. Arroyo, M., and Trepat, X. “Shaping epithelia through buckling in pressure-controlled tissue.” World congress of biomechanics, Taipei, Taiwan. July 10-14, 2022 
 
 **Chahare, N. R.**, Ouzeri, A., Golde, T., Wilson, T. Arroyo, M., and Trepat, X. “Synthetic epithelial morphogenesis through controlled stretching and buckling.” EMBL-IBEC Conference, Engineering multicellular systems, Barcelona, Spain. June 08-10, 2022 
@@ -157,6 +159,12 @@ Department of Safety, Tata Indica plant, Pune, India
 **International travel grant** for attending winter school on Quantitative Systems Biology at International Centre for Theoretical Sciences (ICTS), Bengaluru, India 2019.
 
 **Awarded scholarship** by Ministry of Human resource and development, India for M.E. 2014-16.
+
+## In press
+
+2023 Invited to be on panel discussion on subject of "Why scientists should care about art?" Roundtable discussion was in Catalan [link](https://www.biennalciutaticiencia.barcelona/ca/activitats/que-la-comunitat-cientifica-hauria-dinteressar-se-lart-taula-rodona)
+
+2022 Interviewed for European Commision funded project, Mechanocontrol, Talked about the inventing novel microfluidic devices. [link](https://mechanocontrol.eu/project-stories-interview-with-nimesh-chahare/)
 
 
 ## 👨‍🔧 Technical skills
