@@ -199,14 +199,6 @@ Dynamic mechanical spectroscopy (DMA, TA Instruments), microindentation (CSM Mic
 - Managed data servers (synology and magnetic tape drive system) in the Prof. Trepat’s lab.
 - Member of PhD committee at IBEC.
 
-### Outreach
-
-- Active member of Science day events, planning committee for communicating popular science 2018–.
-- Volunteered at Structural Integrity Conference and Exhibition (SICE) 2016.
-- Cultural committee member, organizing cultural programmes in Marathi mandal IISc 2015.
-- Active member of Social Welfare Society at VNIT 2014.
-
-
 ## 💬 Languages
 
 **Native** &nbsp; : Marathi, Hindi, and English\
